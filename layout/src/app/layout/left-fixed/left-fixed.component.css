@@ -1,0 +1,16 @@
+.left {
+  width: 300px;
+  height: 100vh;
+  line-height: 100vh;
+  background: pink;
+  float: left;
+  text-align: center;
+}
+
+.right {
+  height: 100vh;
+  line-height: 100vh;
+  overflow: hidden;
+  background: #ccc;
+  text-align: center;
+}
